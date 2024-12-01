@@ -3,10 +3,22 @@ body{
     border:  5px solid red;
     margin: 10px 20px 10px 20px;
 }
+p{
+    font-size: 30px;
+}
 
 .dev_heading{
     color: blue;
     background-color: whitesmoke;
     text-align: center;
     
+}
+.div_paragraph{
+    color: rgb(128, 0, 122);
+    background-color: rgb(181, 207, 51);
+    text-align: left;
+    
+}
+#p_main{
+    color: blueviolet;
 }
