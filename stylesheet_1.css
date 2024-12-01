@@ -3,10 +3,6 @@ body{
     border:  5px solid red;
     margin: 10px 20px 10px 20px;
 }
-p{
-    font-size: 30px;
-}
-
 .dev_heading{
     color: blue;
     background-color: whitesmoke;
@@ -18,10 +14,17 @@ p{
     background-color: rgb(181, 207, 51);
     text-align: left;
 }
+#p2m{
+    font-size: 30px;  
+ }
 #p_main{
     color: blueviolet;
 }
 
 #bch-1-p{
     color: aliceblue;
+}
+
+p{
+    font-size: 20px;
 }
